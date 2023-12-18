@@ -1,5 +1,6 @@
 
 // Message/Notification timer
+// javascript de la aplicacion 
 
 var message_timeout = document.getElementById("message-timer");
 
